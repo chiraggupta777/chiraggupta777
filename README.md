@@ -1,63 +1,121 @@
-#<h1 align="center">Hi, I'm Chirag Gupta 👋</h1>
-<h3 align="center">Full Stack Developer | C++ & DSA | Building AI-Powered Web Applications</h3>
+<div align="center">
 
-<p align="center">
-CS student building practical full-stack apps, sharpening DSA fundamentals, and shipping production-ready projects.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=180&section=header&text=Chirag%20Gupta&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Building%20AI-Powered%20Applications&descSize=17&descAlignY=62" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Development+%E2%9C%93;Backend+Engineering;AI+%26+LLM+Applications;Building+Real+World+Products;C%2B%2B+%26+DSA+Problem+Solver" />
+
+<br/>
+
+<a href="(https://www.linkedin.com/in/chirag-gupta-925a93320)">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:guptachirag7777@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=chiraggupta777&label=Profile%20Views&color=238636&style=for-the-badge"/>
+
+</div>
+<div align="center">
+
+🟢 **Full Stack Development** &nbsp; • &nbsp;
+🚀 **Building AI Applications** &nbsp; • &nbsp;
+🧠 **DSA & Problem Solving**
+
+</div>
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### Full Stack Engineering → AI-Powered Applications
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏫 CampusFix
+
+**Campus Complaint Management Platform**
+
+A full-stack platform for reporting, tracking, and managing
+campus-related issues through a structured workflow.
+
+### ⚡ Highlights
+
+- 📝 Complaint submission & tracking
+- 🔄 Status-based issue management
+- 👥 User-focused workflow
+- 🗄️ Persistent data management
+
+### 🧩 Stack
+
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb" />
+
+<br><br>
+
+<a href="https://github.com/chiraggupta777/CampusFix">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-238636?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 ResuMatch
+
+**AI-Powered Resume Analyzer**
+
+A full-stack AI application that evaluates resumes against
+job descriptions and turns the analysis into actionable feedback.
+
+### ⚡ Highlights
+
+- 🎯 Resume → JD matching
+- 📊 ATS keyword analysis
+- 📈 Intelligent match scoring
+- 🤖 AI-generated recommendations
+- 🔐 Google OAuth authentication
+
+### 🧩 Stack
+
+<img src="https://skillicons.dev/icons?i=react,typescript,vite,nodejs,express,mongodb" />
+
+<br>
+
+`JWT` `Google OAuth` `Groq AI`
+
+<br><br>
+
+<a href="https://github.com/chiraggupta777/resumatch/">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-238636?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**CampusFix** → Full Stack Development
+
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+
+**ResuMatch** → AI + Full Stack
+
+</div>
 
 ---
-
-### 🚀 Featured Project
-
-## [ResuMatch — AI-Powered Resume Analyzer](https://github.com/chiraggupta777/resumatch)
-
-Full-stack platform that scores a resume against a job description and returns structured, actionable feedback — match score, ATS keyword gaps, and AI-generated suggestions.
-
-**Highlights:** Resume-to-JD match scoring · ATS keyword analysis · AI suggestions via Groq (`llama-3.3-70b`) · JWT + Google OAuth · Per-user analysis history
-
-`React` `TypeScript` `Vite` `Node.js` `Express` `MongoDB` `JWT` `Groq AI`
-
-[**View Repository →**](https://github.com/chiraggupta777/resumatch)
-
----
-
-### 📂 Other Projects
-
-**[Django E-Commerce Application](#)** — Full-stack store with auth, cart, checkout, order management, and admin dashboard.
-`Django` `Python` `HTML` `CSS`
-
-**[Placement Preparation Tracker](#)** — Web app to track DSA progress, learning goals, and placement prep.
-`HTML` `CSS` `JavaScript`
-
----
-
-### 🎯 Current Goals
-
-- Strengthen DSA fundamentals and problem-solving patterns
-- Deploy ResuMatch and test the full production flow
-- Improve backend development and database design skills
-- Learn deployment and basic DevOps fundamentals
-- Contribute to open-source projects
-- Become interview-ready for Software Development roles
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/chirag-gupta-925a93320?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:guptachirag7777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>Building projects. Solving problems. Improving every day.</i></p>
